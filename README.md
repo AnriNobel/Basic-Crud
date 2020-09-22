@@ -1,1 +1,1 @@
-# WebSTPI
+project_stpi
